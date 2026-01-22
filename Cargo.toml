@@ -1,0 +1,11 @@
+[package]
+name = "sudokusolver"
+version = "0.1.0"
+edition = "2024"
+authors = ["Brett J Norris"]
+description = "A Sudoku solver application"
+repository = "https://github.com/brettjnorris/sudokusolver"
+license = "MIT OR Apache-2.0"
+rust-version = "1.92.0"
+
+[dependencies]
